@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.bg{
+    background-image: url(./velikchi\ oka.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: orange;
+}
+.nav{
+    display: flex;
+    gap: 200px;
+}
+.ww h1{
+    width: 679px;
+    height: 227px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Open Sans;
+font-size: 96px;
+font-weight: 700;
+line-height: 118.08px;
+letter-spacing: 0.02em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: white;
+
+}
+.ww p{
+    width: 645px;
+height: 87px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 28.8px;
+letter-spacing: 0.01em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: white;
+margin-top: 100px;
+
+}
+button{
+    width: Fixed (180px)px;
+height: Hug (52px)px;
+padding: 16px 80px 16px 80px;
+gap: 10px;
+border-radius: 10px ;
+opacity: 0px;
+background: #F57520;
+color: white;
+margin-top: 20px;
+}
+.ww{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.e{
+  font-size: 40px;
+   text-align: center;
+    gap: 0px;
+    opacity: 0px;
+    color: #101010;
+    margin-bottom: 200px;
+    
+}
+.carddd{
+    background-color: gray;
+    padding-top: 200px;
+    padding-bottom: 200px;
+   
+   
+}
+.card{
+    width: 400px;
+height: 462px;
+
+
+border-radius: 10px ;
+
+background-color: black;
+color: white;
+
+}
+.cardota{
+    display: flex;
+flex-wrap: wrap;
+gap: 50px
+;
+margin-left: 100px;
+margin-right: 100px;
+
+}
+body{
+    width: 1920px;
+    max-width: 1920px;
+}
+.card:hover{
+    background-color: #F57520;
+    color: black;
+}
+.l{
+    width: 620px;
+height: 98px;
+top: 52px;
+left: 320px;
+gap: 0px;
+opacity: 0px;
+font-family: Open Sans;
+font-size: 40px;
+font-weight: 800;
+line-height: 49.2px;
+letter-spacing: 0.05em;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+margin-left: 100px;
+color: white;
+
+}
+.www{
+    width: 608px;
+height: 154px;
+
+
+gap: 10px;
+border-radius: 10px ;
+opacity: 0px;
+
+
+}
+input{
+    width: 302pxpx;
+height: 46px;
+top: 242px;
+left: 314px;
+padding: 10px 16px 10px 16px;
+gap: 10px;
+border-radius: 10px ;
+opacity: 0px;
+
+}
+.rustam{
+    display: flex;
+    gap: 50px;
+}
+.rr{
+    display: flex;
+    gap: 50px;
+}
+.kkkk{
+    background: #F57520;
+padding-left: 200px;
+display: flex;
+}
+.qq{
+    
+}
+.lal{
+    width: 608px;
+height: 52px;
+top: 544px;
+left: 314px;
+padding: 16px 80px 16px 80px;
+gap: 10px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+background-color: white;
+color: red;
+}
